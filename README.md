@@ -47,7 +47,7 @@ BLUE WHALE OSINT TOOL is a comprehensive, all-in-one OSINT (Open Source Intellig
 
 
    ```bash
-   git clone https://github.com/parvezhasan/blue-whale-osint-max.git
+   git clone https://github.com/TEAMBCS/bluewhale-osint-tool.git
    cd bluewhale_osint_tool
    ```
 
