@@ -9,7 +9,7 @@
 
 ## Overview
 
-BLUE WHALE OSINT TOOL (MAX) is a comprehensive, all-in-one OSINT (Open Source Intelligence) toolkit designed for cybersecurity researchers, ethical hackers, and investigators. This powerful Python-based CLI tool provides a wide range of information-gathering modules — all without relying on expensive external APIs (except a free IP lookup).
+BLUE WHALE OSINT TOOL is a comprehensive, all-in-one OSINT (Open Source Intelligence) toolkit designed for cybersecurity researchers, ethical hackers, and investigators. This powerful Python-based CLI tool provides a wide range of information-gathering modules — all without relying on expensive external APIs (except a free IP lookup).
 
 ---
 
